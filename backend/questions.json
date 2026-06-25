@@ -1,0 +1,118 @@
+{
+  "Software Engineer": {
+    "Easy": [
+      "What is SDLC?",
+      "What is Git?",
+      "What is debugging?",
+      "What is version control?",
+      "What is a compiler?",
+      "What is an IDE?",
+      "What is software testing?",
+      "What is Agile?",
+      "What is Scrum?",
+      "What is OOP?"
+    ],
+    "Medium": [
+      "Explain encapsulation.",
+      "What is polymorphism?",
+      "Difference between stack and queue?",
+      "What is dependency injection?",
+      "What is REST API?",
+      "What is CI/CD?",
+      "What is multithreading?",
+      "Explain design patterns.",
+      "What is MVC architecture?",
+      "Difference between SQL and NoSQL?"
+    ],
+    "Hard": [
+      "Explain microservices architecture.",
+      "Difference between monolith and microservices?",
+      "What is distributed computing?",
+      "Explain CAP theorem.",
+      "What is event-driven architecture?",
+      "How do load balancers work?",
+      "Explain horizontal scaling.",
+      "What is eventual consistency?",
+      "Explain caching strategies.",
+      "What is system design?"
+    ]
+  },
+
+  "Data Analyst": {
+    "Easy": [
+      "What is data analysis?",
+      "What is Excel?",
+      "What is a CSV file?",
+      "What is data cleaning?",
+      "What is a database?",
+      "What is SQL?",
+      "What is Power BI?",
+      "What is Tableau?",
+      "What is a KPI?",
+      "What is data visualization?"
+    ],
+    "Medium": [
+      "Difference between mean and median?",
+      "What is data normalization?",
+      "What is a pivot table?",
+      "Explain joins in SQL.",
+      "What is EDA?",
+      "What is correlation?",
+      "What is regression?",
+      "What is data profiling?",
+      "Difference between INNER and LEFT JOIN?",
+      "What is ETL?"
+    ],
+    "Hard": [
+      "Explain hypothesis testing.",
+      "What is A/B testing?",
+      "What is statistical significance?",
+      "Explain confidence intervals.",
+      "What is multicollinearity?",
+      "What is feature engineering?",
+      "What is dimensionality reduction?",
+      "Explain clustering.",
+      "What is time series analysis?",
+      "Explain predictive analytics."
+    ]
+  },
+
+  "Ethical Hacker": {
+    "Easy": [
+      "What is ethical hacking?",
+      "What is phishing?",
+      "What is malware?",
+      "What is SQL injection?",
+      "What is a firewall?",
+      "What is a VPN?",
+      "What is antivirus software?",
+      "What is penetration testing?",
+      "What is encryption?",
+      "What is authentication?"
+    ],
+    "Medium": [
+      "Explain XSS attacks.",
+      "Difference between IDS and IPS?",
+      "What is privilege escalation?",
+      "What is ARP spoofing?",
+      "What is DNS poisoning?",
+      "What is packet sniffing?",
+      "What is brute force attack?",
+      "What is social engineering?",
+      "Explain OWASP Top 10.",
+      "What is session hijacking?"
+    ],
+    "Hard": [
+      "What is a zero-day vulnerability?",
+      "Explain buffer overflow.",
+      "What is reverse shell?",
+      "What is ransomware?",
+      "Explain SSRF attacks.",
+      "What is Kerberos?",
+      "Explain advanced persistent threats.",
+      "What is exploit chaining?",
+      "What is red teaming?",
+      "What is threat modeling?"
+    ]
+  }
+}
