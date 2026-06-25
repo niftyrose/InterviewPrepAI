@@ -162,12 +162,17 @@ flutter run -d chrome
 ### Home Screen
 
 > Add a screenshot here.
+<img width="960" height="504" alt="Screenshot 2026-06-25 133311" src="https://github.com/user-attachments/assets/2575ede8-1f58-4e7b-a7f6-5a88509d3ce1" />
+
 
 ### Generated Questions
 
 > Add a screenshot here.
 
 ---
+
+<img width="960" height="504" alt="Screenshot 2026-06-25 133326" src="https://github.com/user-attachments/assets/a0f42968-9842-40e4-9db2-c26357647c3b" />
+<img width="960" height="504" alt="Screenshot 2026-06-25 133330" src="https://github.com/user-attachments/assets/e4b175cd-276a-4585-b7c1-7b17a3b1da4d" />
 
 ## 🔮 Future Enhancements
 
